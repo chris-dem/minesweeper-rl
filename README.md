@@ -1,1 +1,1 @@
-# minesweeper-rl
+# Minesweeper-rl
